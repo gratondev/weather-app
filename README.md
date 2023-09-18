@@ -1,29 +1,4 @@
-<div align="center"><img src="images/app_icon.png" width="100"/></div>
-<h1 align="center" style="vertical-align:middle">Prognoza</h1>
-<h3 align="center">Libre weather app with widgets and offline support</h3>
 
-<div align="center">
-    <a href="https://apt.izzysoft.de/fdroid/index/apk/hr.dtakac.prognoza">
-        <img src="https://gitlab.com/IzzyOnDroid/repo/-/raw/master/assets/IzzyOnDroid.png" width="170"/>
-    </a>
-</div>
-
-<p align="center">
-    <a href="https://apt.izzysoft.de/fdroid/index/apk/hr.dtakac.prognoza">
-        <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fapt.izzysoft.de%2Ffdroid%2Fapi%2Fv1%2Fshield%2Fhr.dtakac.prognoza"/>
-    </a>
-    <a href="https://github.com/davidtakac/prognoza/releases/latest">
-        <img src="https://img.shields.io/github/v/release/davidtakac/prognoza?label=GitHub%20release"/>
-    </a>
-    <a title="Crowdin" target="_blank" href="https://crowdin.com/project/prognoza">
-        <img src="https://badges.crowdin.net/prognoza/localized.svg"></a>
-    <a href="https://liberapay.com/davidtakac/">
-        <img src="https://img.shields.io/liberapay/patrons/davidtakac.svg?logo=liberapay">
-    </a>
-    <a href="LICENSE">
-        <img src="https://img.shields.io/github/license/davidtakac/prognoza"/>
-    </a>
-</p>
 
 ## Screenshots
 <p align="left">
